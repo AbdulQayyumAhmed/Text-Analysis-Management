@@ -1,0 +1,10 @@
+[
+    {
+        "user_id": 1,
+        "analysis_id": 10,
+        "text": "i love Pakis!@n",
+        "word_count": 3,
+        "uppercase_count": 1,
+        "special_char_count": 2
+    }
+]
